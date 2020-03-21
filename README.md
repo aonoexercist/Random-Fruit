@@ -1,4 +1,4 @@
-Random Fruits
+# Random Fruits
 
 React App Just for fun.
 
